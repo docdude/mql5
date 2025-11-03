@@ -1,0 +1,38 @@
+# Core data processing
+numpy
+pandas
+
+# Technical analysis
+TA-Lib<=0.6.7
+pandas-ta
+
+# MT5 integration
+MetaTrader5
+
+# Security
+cryptography
+
+# Scientific computing
+scipy
+statsmodels
+
+# Visualization
+matplotlib
+mplfinance
+seaborn
+plotly
+
+# Feature engineering
+feature-engine
+
+# Performance optimization
+numba
+
+# Logging
+loguru
+
+# System utilities
+psutil
+
+# Notebook utilities
+nbformat
